@@ -2,8 +2,8 @@
 젯봇의 Road Following을 위한 이미지 라벨링 도구
 
 ### 개발 목적
-https://github.com/NVIDIA-AI-IOT/jetbot﻿
-NDIVIA에서 Jetbot의 Road Following을 위해 기본으로 제공하는 ImageLabeling 도구는 최소 수백 장의 이미지들을 라벨링하기에는 불편하기 때문에
+https://github.com/NVIDIA-AI-IOT/jetbot﻿<br>
+NDIVIA에서 Jetbot의 Road Following을 위해 기본으로 제공하는 ImageLabeling 도구는 최소 수백 장 되는 이미지들을 라벨링하기에는 불편하기 때문에
 , 빠른 작업을 위해 개발
 
 ### Key Control
